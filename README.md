@@ -1,352 +1,65 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  ULTIMATE PROFESSIONAL GITHUB PROFILE README TEMPLATE  v2.0  ║
-║  Replace every [BRACKET] with your own details.              ║
-║  Full setup instructions are at the bottom of this file.     ║
-╚══════════════════════════════════════════════════════════════╝
--->
+-: GitHub Profile Template :-
 
-<!-- ═════════════ 1. HERO BANNER ═════════════ -->
+NOTE : Copy the Below Text & Paste it into Readme File (GitHub)
+
+
+<!-- ============================================== --> <!-- PROFESSIONAL ANIMATED GITHUB README TEMPLATE --> <!-- Replace every [BRACKET] with your own details --> <!-- Full instructions at the bottom of this file --> <!-- ============================================== --> <!-- Animated Header Banner --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=260&section=header&text=[YOUR_NAME]&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=[YOUR_TITLE,%20e.g.%20Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Data%20Science]&descSize=20&descAlignY=58&descColor=c4b5fd"/> </div> <!-- Animated Typing Lines --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=[LINE_1_e.g.+Building+systems+that+actually+scale];[LINE_2_e.g.+Turning+coffee+into+code+%E2%98%95];[LINE_3_e.g.+From+%5BYOUR_CITY%5D+%E2%80%94+building+for+the+world];[LINE_4_e.g.+Let%27s+build+something+amazing+together!]" alt="Typing SVG"/> </div> <br/> <!-- Animated Social Badges --> <div align="center"> <a href="[YOUR_LINKEDIN_URL]" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/> </a> <a href="mailto:[YOUR_EMAIL]"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/> </a> <a href="[YOUR_GITHUB_URL]" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/> </a> <a href="[YOUR_INSTAGRAM_URL]" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/> </a> <a href="[YOUR_PORTFOLIO_URL]" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/> </a> </div> <br/> <!-- Live Stats Row --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=7c3aed&style=for-the-badge"/> &nbsp; <img src="https://img.shields.io/badge/Open%20To-[e.g.%20Internships%20%26%20Collaborations]-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Based%20In-[YOUR_CITY]%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-f59e0b?style=for-the-badge"/> </div> <br/> <!-- Animated divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🧑‍💻 About Me
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Name      : [YOUR_FULL_NAME]
+Degree    : [YOUR_DEGREE, e.g. B.Tech CSE - Data Science]
+College   : [YOUR_COLLEGE_NAME], [YOUR_CITY]
+Internship: [COMPANY/PROGRAM NAME, or "Open to opportunities"]
+
+Currently working on:
+  - [Project / focus area #1]
+  - [Project / focus area #2]
+  - [Skill you're sharpening right now]
+
+Ask me about:
+  - [Skill/Topic 1]
+  - [Skill/Topic 2]
+  - [Skill/Topic 3]
+
+Fun Fact: "[One personal, memorable line about your journey]"
+
+<br clear="right"/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🚀 Experience & Journey
+<table width="100%"> <tr> <td width="50%" valign="top"> <h3>💼 Experience</h3> <b>[Your Role]</b><br/> [Company / Program] — <i>[Year]</i><br/> <sub>[One line on what you did or learned — keep it outcome-focused]</sub> </td> <td width="50%" valign="top"> <h3>🎓 Education</h3> <b>[Your Degree]</b><br/> [Your College] — <i>[Start Year]–Present</i><br/> <sub>[Key subjects / specialization]</sub> </td> </tr> </table>
+🔥 "[One sentence that captures what shifted your mindset or what drives you]"
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🛠️ Tech Stack
 <div align="center">
-  <img width="100%" alt="Header Banner"
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,40:4F46E5,70:7C3AED,100:06B6D4&height=300&section=header&text=[NEERADI_BHANUPRAKASH]&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=[YOUR_TITLE%20e.g.%20Full-Stack%20Engineer%20%7C%20AI%20Builder]&descSize=22&descAlignY=60&descColor=E0E7FF"/>
-</div>
+Languages <br/> <img src="https://skillicons.dev/icons?i=[your,languages,here]&theme=light" />
+Frontend <br/> <img src="https://skillicons.dev/icons?i=[your,frontend,tools]&theme=light" />
+Backend & Database <br/> <img src="https://skillicons.dev/icons?i=[your,backend,tools]&theme=light" />
+AI / ML / Data Science <br/> <img src="https://skillicons.dev/icons?i=[your,ai,ml,tools]&theme=light" />
+Cloud, DevOps & Tools <br/> <img src="https://skillicons.dev/icons?i=[your,cloud,tools]&theme=light" />
+</div> <!-- Get valid icon slugs by clicking icons at https://skillicons.dev --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+📊 GitHub Analytics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" /> </div> <div align="center"> <img width="55%" src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&border_radius=8&background=00000000"/> </div> <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true&area=true&custom_title=[YOUR_NAME]'s%20Contribution%20Graph"/> </div> <!-- Animated Contribution Snake --> <div align="center"> <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" width="95%"/> <br/> <sub>⚠️ Snake animation needs a one-time GitHub Action setup — see instructions below</sub> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&column=7&margin-w=8"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+💡 My Engineering Principles
+01  →  [Your principle #1]
+02  →  [Your principle #2]
+03  →  [Your principle #3]
+04  →  [Your principle #4]
+05  →  [Your principle #5]
+06  →  [Your principle #6]
 
-<!-- ═════════════ 2. TYPING ANIMATION ═════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+📈 Currently Vibing With
 <div align="center">
-  <img alt="Typing SVG"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=800&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+[YOUR_FIRST_NAME];[LINE_1+e.g.+Building+systems+that+scale];[LINE_2+e.g.+Turning+coffee+into+code+%E2%98%95];[LINE_3+e.g.+Passionate+about+AI+%26+Open+Source];Let's+build+something+amazing+together+%F0%9F%9A%80"/>
-</div>
 
+<sub>Optional: integrate a live Spotify widget via <a href="https://github.com/novatorem/novatorem">novatorem</a> — fully optional, remove if not needed</sub>
+</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+📫 Let's Connect & Build
+<div align="center">
+🤝 Open to [Internships · Collaborations · Roles — edit as relevant]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=7C3AED&center=true&width=600&lines=[Your+focus+areas+here];If+you're+building+something+great+%E2%80%94+let's+talk!"/> <br/> <a href="[YOUR_LINKEDIN_URL]"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:[YOUR_EMAIL]"> <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<br/><br/>
+"[A one or two line personal quote about your journey or purpose]"
 <br/>
-
-<!-- ═════════════ 3. STATUS BADGES ═════════════ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?label=Followers&style=for-the-badge&logo=github&color=4F46E5&labelColor=0F172A"/>
-  <img src="https://img.shields.io/github/stars/[YOUR_GITHUB_USERNAME]?label=Total%20Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=0F172A"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0F172A"/>
-  <img src="https://img.shields.io/badge/Based%20In-[YOUR_CITY]%2C%20[YOUR_COUNTRY]-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A"/>
-  <img src="https://img.shields.io/badge/Timezone-[e.g.%20UTC%2B5:30]-7C3AED?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0F172A"/>
-</div>
-
-<br/>
-
-<!-- ═════════════ 4. SOCIAL LINKS ═════════════ -->
-<div align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="[YOUR_TWITTER_X_URL]" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="[YOUR_INSTAGRAM_URL]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="[YOUR_MEDIUM_OR_DEVTO_URL]" target="_blank"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="[YOUR_YOUTUBE_URL]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 5. ABOUT ME ═════════════ -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<img align="right" width="320" alt="Coding animation"
-src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```yaml
-name:        "[YOUR_FULL_NAME]"
-role:        "[YOUR_ROLE e.g. Full-Stack Developer]"
-education:   "[YOUR_DEGREE], [YOUR_COLLEGE_NAME]"
-location:    "[YOUR_CITY, YOUR_COUNTRY]"
-working_at:  "[COMPANY / PROGRAM or 'Open to opportunities']"
-languages:   ["[English]", "[Your Language 2]"]
-```
-
-🔭 **Currently building:** [Project / focus area #1]  
-🌱 **Currently learning:** [Skill you're sharpening right now]  
-👯 **Looking to collaborate on:** [Type of projects]  
-💬 **Ask me about:** [Topic 1] · [Topic 2] · [Topic 3]  
-⚡ **Fun fact:** *[One personal, memorable line about your journey]*
-
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 6. EXPERIENCE & EDUCATION ═════════════ -->
-<h2 align="center">🚀 Experience & Education</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Experience</h3>
-      <b>[Your Role]</b><br/>
-      [Company / Program] — <i>[Start Year] – [End Year / Present]</i><br/>
-      <sub>▸ [Outcome-focused achievement, e.g. Cut API latency by 40%]</sub><br/>
-      <sub>▸ [Second achievement or technology used]</sub>
-      <br/><br/>
-      <b>[Previous Role]</b><br/>
-      [Company / Program] — <i>[Year]</i><br/>
-      <sub>▸ [One line on what you did or learned]</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
-      <b>[Your Degree]</b><br/>
-      [Your College / University] — <i>[Start Year] – [End Year / Present]</i><br/>
-      <sub>▸ [Key subjects / specialization]</sub>
-      <br/><br/>
-      <h3>📜 Certifications</h3>
-      <sub>▸ [Certification #1 — Issuer, Year]</sub><br/>
-      <sub>▸ [Certification #2 — Issuer, Year]</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h4>🔥 <i>"[One sentence that captures what drives you]"</i></h4>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 7. TECH STACK ═════════════ -->
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,go&perline=10"/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&perline=10"/>
-
-**Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&perline=10"/>
-
-**AI / ML / Data Science**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter&perline=10"/>
-
-**Cloud, DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode&perline=10"/>
-
-</div>
-
-<!-- Sample icons are pre-filled. Swap in your own slugs from https://skillicons.dev -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 8. FEATURED PROJECTS ═════════════ -->
-<h2 align="center">📌 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_1]">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_1]&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2]">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_2]&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  </a>
-  <br/>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_3]">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_3]&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_4]">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_4]&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  </a>
-</div>
-
-<br/>
-
-<details>
-<summary><b>📂 More project details (click to expand)</b></summary>
-<br/>
-
-| Project | Description | Tech | Links |
-|:--|:--|:--|:--|
-| **[Project 1]** | [One-line outcome-focused description] | `[Tech]` `[Tech]` | [Code](#) · [Live](#) |
-| **[Project 2]** | [One-line outcome-focused description] | `[Tech]` `[Tech]` | [Code](#) · [Live](#) |
-| **[Project 3]** | [One-line outcome-focused description] | `[Tech]` `[Tech]` | [Code](#) · [Live](#) |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 9. GITHUB ANALYTICS ═════════════ -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img width="49%" alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000"/>
-  <img width="40%" alt="Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000"/>
-</div>
-
-<div align="center">
-  <img width="75%" alt="Streak Stats"
-  src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&border_radius=10&background=00000000"/>
-</div>
-
-<div align="center">
-  <img width="95%" alt="Activity Graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=[YOUR_NAME]'s%20Contribution%20Graph"/>
-</div>
-
-<!-- Animated Contribution Snake (needs a one-time GitHub Action — see instructions at the bottom) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" width="95%" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 10. TROPHIES & ACHIEVEMENTS ═════════════ -->
-<h2 align="center">🏆 Trophies & Achievements</h2>
-
-<div align="center">
-  <img alt="GitHub Trophies"
-  src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🥇<br/><b>[Achievement #1]</b><br/><sub>[Event / Year]</sub></td>
-      <td align="center">🏅<br/><b>[Achievement #2]</b><br/><sub>[Event / Year]</sub></td>
-      <td align="center">⭐<br/><b>[Achievement #3]</b><br/><sub>[Event / Year]</sub></td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 11. ENGINEERING PRINCIPLES ═════════════ -->
-<h2 align="center">💡 My Engineering Principles</h2>
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top"><h3>01</h3><b>[Principle #1]</b><br/><sub>[Short explanation]</sub></td>
-    <td width="33%" align="center" valign="top"><h3>02</h3><b>[Principle #2]</b><br/><sub>[Short explanation]</sub></td>
-    <td width="33%" align="center" valign="top"><h3>03</h3><b>[Principle #3]</b><br/><sub>[Short explanation]</sub></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top"><h3>04</h3><b>[Principle #4]</b><br/><sub>[Short explanation]</sub></td>
-    <td width="33%" align="center" valign="top"><h3>05</h3><b>[Principle #5]</b><br/><sub>[Short explanation]</sub></td>
-    <td width="33%" align="center" valign="top"><h3>06</h3><b>[Principle #6]</b><br/><sub>[Short explanation]</sub></td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:06B6D4&height=3" width="100%"/>
-
-<!-- ═════════════ 12. EXTRAS (OPTIONAL) ═════════════ -->
-<h2 align="center">✨ Extras</h2>
-
-<div align="center">
-  <!-- Daily dev quote -->
-  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  <br/><br/>
-  <!-- Optional live Spotify widget: https://github.com/novatorem/novatorem (delete if not needed) -->
-  <sub>🎧 Currently vibing with: [Your favourite playlist / artist — or remove this block]</sub>
-</div>
-
-<br/>
-
-<!-- ═════════════ 13. CONNECT ═════════════ -->
-<h2 align="center">📫 Let's Connect & Build</h2>
-
-<div align="center">
-  <b>🤝 Open to [Internships · Collaborations · Freelance · Full-time Roles — edit as relevant]</b>
-  <br/><br/>
-  <img alt="Typing SVG"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=7C3AED&center=true&width=620&lines=[Your+focus+area+1];[Your+focus+area+2];If+you're+building+something+great+%E2%80%94+let's+talk!"/>
-  <br/><br/>
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <br/><br/>
-  <i>"[A one or two line personal quote about your journey or purpose]"</i>
-  <br/><br/>
-  ⚡ <b>[Your closing tagline — short, punchy, memorable]</b> ⚡
-</div>
-
-<!-- ═════════════ 14. FOOTER BANNER ═════════════ -->
-<div align="center">
-  <img width="100%" alt="Footer Banner"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:4F46E5&height=140&section=footer"/>
-</div>
-
-<!--
-════════════════════════════════════════════════════════════════
- HOW TO USE THIS TEMPLATE
-════════════════════════════════════════════════════════════════
-
-STEP 1 — Create the special repo
-  Make a PUBLIC repo named EXACTLY your username
-  (username "sainath9391" → repo "sainath9391").
-  Tick "Add a README file". GitHub shows it on your profile.
-
-STEP 2 — Replace every [BRACKETED] field
-  Use Find & Replace for repeated ones, e.g.
-  [YOUR_GITHUB_USERNAME] → your real username.
-  Delete the [ ] brackets themselves in URLs.
-
-STEP 3 — Tech icons
-  Open https://skillicons.dev, click your icons, copy the list
-  and paste it after i= in each skillicons URL.
-  Example: i=py,js,react,nodejs,docker
-
-STEP 4 — Featured projects
-  Replace [REPO_NAME_1..4] with your best repos.
-  Delete any card you don't need.
-
-STEP 5 — (Optional) Animated contribution snake
-  Create .github/workflows/snake.yml in your profile repo:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-    push:
-      branches: [main]
-  jobs:
-    generate:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Go to Actions tab → run "Generate Snake" once.
-  Don't want it? Delete the snake <div> block.
-
-STEP 6 — Remove anything you don't need
-  Every section is separated by a divider line, so you can
-  delete whole sections cleanly (Extras, Achievements, etc.).
-
-STEP 7 — Commit & push
-  Your profile updates instantly.
-
-PRO TIPS
-  • Keep it scannable: 3 to 5 sections beats 15.
-  • Lead with outcomes, not buzzwords.
-  • Pin your 6 best repos on your profile.
-  • If a stats card shows an error, the free API is rate-limited;
-    refresh later or self-host github-readme-stats.
-════════════════════════════════════════════════════════════════
--->
+⚡ [Your closing tagline — short, punchy, memorable] ⚡
+</div> <!-- Animated Footer Banner --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:4F46E5&height=150&section=footer"/> </div> <!-- ================================================================ --> <!-- HOW TO USE THIS TEMPLATE --> <!-- ================================================================ --> <!-- STEP 1 — Create the special repo Make a new GitHub repo named EXACTLY the same as your username (e.g. if your username is "sainath9391", repo name = "sainath9391"). Make it public. GitHub will show a banner offering to add a profile README — accept it, or just create README.md yourself. STEP 2 — Replace every [BRACKETED] field Swap in your name, college, links, tech stack, etc. STEP 3 — Get tech icon names Go to https://skillicons.dev, click the icons you want, and it auto-generates the comma-separated list — paste that into the i=... part of each skillicons URL above. STEP 4 — (Optional) Enable the animated contribution snake This needs a one-time GitHub Action: 1. In your profile repo, go to Settings > Secrets > Actions 2. Create a new repo: create a file at .github/workflows/snake.yml with this content: name: generate snake on: schedule: - cron: "0 */6 * * *" push: branches: - main jobs: generate: permissions: contents: write runs-on: ubuntu-latest steps: - uses: Platane/snk@v3 with: github_user_name: ${{ github.repository_owner }} outputs: dist/github-contribution-grid-snake-dark.svg - uses: crazy-max/ghaction-github-pages@v3 with: target_branch: output build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 3. Push it — after the action runs once, the snake animation in this README will work automatically. 4. If you don't want this, just delete the snake image block above. STEP 5 — (Optional) Remove the Spotify widget block if not relevant. STEP 6 — Push to GitHub It will appear automatically at the top of your profile page. --> 
